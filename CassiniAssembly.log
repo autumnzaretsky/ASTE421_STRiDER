@@ -1,0 +1,186 @@
+﻿IGES to UG
+! INFO-     NX V2412.8101 / IGES Specification 5.3
+! INFO-      
+! INFO-     Start of Translation: 27-FEB-2026  5:48:43 AM
+! INFO-      
+! STATUS-   Converting Part: C:\Users\autum\Downloads\CassiniAssembly.igs
+! SUMMARY-   
+! SUMMARY-  Summary of Supported IGES Entities in file
+! SUMMARY-   
+! SUMMARY-  Entity Type                    Count
+! SUMMARY-  -----------                    -----
+! SUMMARY-  Line (110/0).................:  1627
+! SUMMARY-  Circular Arc (100/0).........:   984
+! SUMMARY-  Conic Arc (104/0-3)..........:    24
+! SUMMARY-  B-Spline Curve (126/0-4).....:  6356
+! SUMMARY-  Composite Curve (102/0)......:  1902
+! SUMMARY-  Plane (108/-1,0,1)...........:    36
+! SUMMARY-  B-Spline Surface (128/0-9)...:  2541
+! SUMMARY-  Offset Surface (140/0).......:     5
+! SUMMARY-  Curve of Surface (142/0).....:  1108
+! SUMMARY-  Trimmed Surface (144/0)......:  1027
+! SUMMARY-  Trans Matrix (124/0,1,10,12).:   114
+! SUMMARY-  Subfigure Definition (308/0).:    13
+! SUMMARY-  Subfigure Instance (408/0)...:    17
+! SUMMARY-  View (410/0).................:     9
+! SUMMARY-  Color Definition (314/0,1)...:     3
+! SUMMARY-  Definition Levels (406/1)....:     5
+! SUMMARY-  Level Function (406/3).......:     5
+! SUMMARY-  Name (406/15)................:    26
+! SUMMARY-                                 -----
+! SUMMARY-  Total                          15802
+! STATUS-    
+! STATUS-   Converting to Output Form (Phase 2 of 3): 27-FEB-2026 5:48:44 AM
+! STATUS-    
+! STATUS-   Creating the UG part (Phase 3 of 3): 27-FEB-2026  5:48:44 AM
+! INFO-     Filing Part ..: C:\Users\autum\OneDrive\Documents\GitHub\ASTE421_STRiDER\Disk_MODEL
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Input Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid/Sheet .................:    82
+! SUMMARY-                                 -----
+! SUMMARY-  Total                             82
+! STATUS-   Creating the UG part (Phase 3 of 3): 27-FEB-2026  5:48:45 AM
+! INFO-     Filing Part ..: C:\Users\autum\OneDrive\Documents\GitHub\ASTE421_STRiDER\AntennaeBud_MODEL
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Input Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid/Sheet .................:    61
+! SUMMARY-                                 -----
+! SUMMARY-  Total                             61
+! STATUS-   Creating the UG part (Phase 3 of 3): 27-FEB-2026  5:48:46 AM
+! INFO-     Filing Part ..: C:\Users\autum\OneDrive\Documents\GitHub\ASTE421_STRiDER\Upper 12 Sided Section_MODEL
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Input Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid/Sheet .................:   136
+! SUMMARY-                                 -----
+! SUMMARY-  Total                            136
+! STATUS-   Creating the UG part (Phase 3 of 3): 27-FEB-2026  5:48:47 AM
+! INFO-     Filing Part ..: C:\Users\autum\OneDrive\Documents\GitHub\ASTE421_STRiDER\Grate_MODEL
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Input Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid/Sheet .................:    20
+! SUMMARY-                                 -----
+! SUMMARY-  Total                             20
+! STATUS-   Creating the UG part (Phase 3 of 3): 27-FEB-2026  5:48:47 AM
+! INFO-     Filing Part ..: C:\Users\autum\OneDrive\Documents\GitHub\ASTE421_STRiDER\Magnetometer_MODEL
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Input Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid/Sheet .................:   209
+! SUMMARY-                                 -----
+! SUMMARY-  Total                            209
+! STATUS-   Creating the UG part (Phase 3 of 3): 27-FEB-2026  5:48:48 AM
+! INFO-     Filing Part ..: C:\Users\autum\OneDrive\Documents\GitHub\ASTE421_STRiDER\Panel1_MODEL
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Input Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid/Sheet .................:    20
+! SUMMARY-                                 -----
+! SUMMARY-  Total                             20
+! STATUS-   Creating the UG part (Phase 3 of 3): 27-FEB-2026  5:48:49 AM
+! INFO-     Filing Part ..: C:\Users\autum\OneDrive\Documents\GitHub\ASTE421_STRiDER\Stem_MODEL
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Input Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid/Sheet .................:    55
+! SUMMARY-                                 -----
+! SUMMARY-  Total                             55
+! STATUS-   Creating the UG part (Phase 3 of 3): 27-FEB-2026  5:48:49 AM
+! INFO-     Filing Part ..: C:\Users\autum\OneDrive\Documents\GitHub\ASTE421_STRiDER\Imaging Subsystem_MODEL
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Input Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid/Sheet .................:    27
+! SUMMARY-                                 -----
+! SUMMARY-  Total                             27
+! STATUS-   Creating the UG part (Phase 3 of 3): 27-FEB-2026  5:48:49 AM
+! INFO-     Filing Part ..: C:\Users\autum\OneDrive\Documents\GitHub\ASTE421_STRiDER\RTG_MODEL
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Input Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid/Sheet .................:   158
+! SUMMARY-                                 -----
+! SUMMARY-  Total                            158
+! STATUS-   Creating the UG part (Phase 3 of 3): 27-FEB-2026  5:48:50 AM
+! INFO-     Filing Part ..: C:\Users\autum\OneDrive\Documents\GitHub\ASTE421_STRiDER\Coupler_MODEL
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Input Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Component ...................:     1
+! SUMMARY-  Solid/Sheet .................:  1204
+! SUMMARY-                                 -----
+! SUMMARY-  Total                           1205
+! STATUS-   Creating the UG part (Phase 3 of 3): 27-FEB-2026  5:48:57 AM
+! ERROR-    SHEET_BODY geometry failure. Unable to create trimmed sheet body. Error code : 999
+! ERROR-     
+! INFO-     Untrimmed sheet body (Unnamed) will be created 
+! INFO-     Filing Part ..: C:\Users\autum\OneDrive\Documents\GitHub\ASTE421_STRiDER\Imaging System_MODEL
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Input Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Arc/Circle ..................:     4
+! SUMMARY-  Solid/Sheet .................:   419
+! SUMMARY-  Offset Curve ................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                            424
+! STATUS-   Creating the UG part (Phase 3 of 3): 27-FEB-2026  5:49:01 AM
+! INFO-     Filing Part ..: C:\Users\autum\OneDrive\Documents\GitHub\ASTE421_STRiDER\Huygens_MODEL
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Input Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid/Sheet .................:   128
+! SUMMARY-                                 -----
+! SUMMARY-  Total                            128
+! STATUS-   Creating the UG part (Phase 3 of 3): 27-FEB-2026  5:49:01 AM
+! INFO-     Filing Part ..: C:\Users\autum\OneDrive\Documents\GitHub\ASTE421_STRiDER\Magnetometer Boom_MODEL
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Input Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid/Sheet .................:    22
+! SUMMARY-                                 -----
+! SUMMARY-  Total                             22
+! STATUS-   Creating the UG part (Phase 3 of 3): 27-FEB-2026  5:49:02 AM
+! INFO-     Filing Part ..: C:\Users\autum\OneDrive\Documents\GitHub\ASTE421_STRiDER\CassiniAssembly.prt
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Input Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Part Attribute ..............:     7
+! SUMMARY-  Layer Category ..............:     5
+! SUMMARY-  View ........................:     9
+! SUMMARY-  Component ...................:    16
+! SUMMARY-                                 -----
+! SUMMARY-  Total                             37
+! INFO-      
+! INFO-     End of Translation: 27-FEB-2026  5:49:02 AM
+! INFO-      

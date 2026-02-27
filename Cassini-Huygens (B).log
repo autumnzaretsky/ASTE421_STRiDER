@@ -1,0 +1,85 @@
+﻿STEP to UG
+! INFO-     NX STEP AP203 - V2412.8101
+! INFO-      
+! INFO-     Start of Translation: 27-FEB-2026  5:38:57 AM
+! INFO-      
+! STATUS-   Converting Part: C:\Users\autum\Downloads\Cassini-Huygens (B).stp
+! SUMMARY-   
+! SUMMARY-    STEP Header Information
+! SUMMARY-   
+! SUMMARY-  Description      STEP AP214
+! SUMMARY-  Imp_Level        1
+! SUMMARY-  File_Name        result.stp
+! SUMMARY-  Date             2026-02-27T05:36:42
+! SUMMARY-  Author            
+! SUMMARY-  Organization      
+! SUMMARY-  Pre_Version      Spatial InterOp 3D
+! SUMMARY-  Orig_System       
+! SUMMARY-  Authorization     
+! SUMMARY-  Schema_ID        automotive_design
+! SUMMARY-   
+! SUMMARY-    Summary of STEP Entities
+! SUMMARY-   
+! SUMMARY-  Entity Type                                                   Count
+! SUMMARY-  -----------                                                   ------
+! SUMMARY-  application_context ........................................:      1
+! SUMMARY-  axis2_placement_3d .........................................:   9200
+! SUMMARY-  cartesian_point ............................................:  18397
+! SUMMARY-  closed_shell ...............................................:      1
+! SUMMARY-  conversion_based_unit_and_length_unit ......................:      1
+! SUMMARY-  dimensional_exponents ......................................:      2
+! SUMMARY-  direction ..................................................:  45997
+! SUMMARY-  edge_curve .................................................:  27597
+! SUMMARY-  edge_loop ..................................................:   9199
+! SUMMARY-  face_bound .................................................:   9199
+! SUMMARY-  face_surface ...............................................:   9199
+! SUMMARY-  geometric_representation_context_and_global_uncertainty_a ..:      1
+! SUMMARY-  length_measure_with_unit ...................................:      1
+! SUMMARY-  length_unit_and_si_unit ....................................:      1
+! SUMMARY-  line .......................................................:  27597
+! SUMMARY-  oriented_edge ..............................................:  27597
+! SUMMARY-  plane ......................................................:   9199
+! SUMMARY-  plane_angle_unit_and_si_unit ...............................:      1
+! SUMMARY-  product ....................................................:      1
+! SUMMARY-  product_category ...........................................:      1
+! SUMMARY-  product_category_relationship ..............................:      1
+! SUMMARY-  product_context ............................................:      1
+! SUMMARY-  product_definition .........................................:      1
+! SUMMARY-  product_definition_context .................................:      1
+! SUMMARY-  product_definition_formation_with_specified_source .........:      1
+! SUMMARY-  product_definition_shape ...................................:      1
+! SUMMARY-  product_related_product_category ...........................:      1
+! SUMMARY-  shell_based_surface_model ..................................:      1
+! SUMMARY-  si_unit_and_solid_angle_unit ...............................:      1
+! SUMMARY-  uncertainty_measure_with_unit ..............................:      1
+! SUMMARY-  vector .....................................................:  27597
+! SUMMARY-  vertex_point ...............................................:  18396
+! SUMMARY-                                                               -------
+! SUMMARY-  Total                                                         239195
+! STATUS-    
+! STATUS-   Converting to Output Form (Phase 2 of 3): 27-FEB-2026 5:38:58 AM
+! STATUS-    
+! STATUS-    
+! STATUS-   Generating UG geometry and placing them in parts
+! STATUS-    
+! STATUS-   Creating the UG part (Phase 3 of 3): 27-FEB-2026  5:45:17 AM
+! INFO-     Filing Part ..: C:\Users\autum\OneDrive\Documents\GitHub\ASTE421_STRiDER\Cassini-Huygens (B).prt
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Group .......................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! INFO-      
+! INFO-     Total number of solids input for this translation       :         0
+! INFO-      
+! INFO-     Number of solids created without body validation faults :         0
+! INFO-      
+! INFO-     Number of solids created with body validation fault(s)  :         0
+! INFO-      
+! INFO-     Number of solids ending up as sheet bodies              :         0
+! INFO-      
+! INFO-     End of Translation: 27-FEB-2026  5:45:44 AM
+! INFO-      
