@@ -1,0 +1,97 @@
+﻿STEP to UG
+! INFO-     NX STEP AP203 - V2412.8101
+! INFO-      
+! INFO-     Start of Translation: 12-FEB-2026  6:32:58 PM
+! INFO-      
+! STATUS-   Converting Part: C:\Users\autum\Downloads\FAIRING_KEEP_IN_RECOVERABLE_WITH_BLANKETS_1575_PAF_A-1.stp
+! SUMMARY-   
+! SUMMARY-    STEP Header Information
+! SUMMARY-   
+! SUMMARY-  Description      Payload Keep-in Volume, With Acoustic Blankets, 1575 mm PAF
+! SUMMARY-  Imp_Level        2;1
+! SUMMARY-  File_Name        FAIRING_KEEP_IN_RECOVERABLE_WITH_BLANKETS_1575_PAF_A.stp
+! SUMMARY-  Date             2025-04-24T09:40:17-07:00
+! SUMMARY-  Author           Unknown
+! SUMMARY-  Organization     SpaceX
+! SUMMARY-  Pre_Version      ST-DEVELOPER v20
+! SUMMARY-  Orig_System      SIEMENS PLM Software NX2406.8300
+! SUMMARY-  Authorization    Unknown
+! SUMMARY-  Schema_ID        automotive_design
+! SUMMARY-   
+! SUMMARY-    Summary of STEP Entities
+! SUMMARY-   
+! SUMMARY-  Entity Type                                                   Count
+! SUMMARY-  -----------                                                   ------
+! SUMMARY-  advanced_face ..............................................:    450
+! SUMMARY-  application_context ........................................:      1
+! SUMMARY-  axis1_placement ............................................:      8
+! SUMMARY-  axis2_placement_3d .........................................:    749
+! SUMMARY-  b_spline_curve_with_knots ..................................:    389
+! SUMMARY-  b_spline_surface_with_knots ................................:     28
+! SUMMARY-  b_spline_surface_with_knots_and_rational_b_spline_surface ..:     44
+! SUMMARY-  cartesian_point ............................................: 116118
+! SUMMARY-  circle .....................................................:    355
+! SUMMARY-  closed_shell ...............................................:      1
+! SUMMARY-  conical_surface ............................................:      8
+! SUMMARY-  conversion_based_unit_and_length_unit ......................:      1
+! SUMMARY-  conversion_based_unit_and_plane_angle_unit .................:      1
+! SUMMARY-  cylindrical_surface ........................................:    166
+! SUMMARY-  dimensional_exponents ......................................:      2
+! SUMMARY-  direction ..................................................:   1562
+! SUMMARY-  edge_curve .................................................:    814
+! SUMMARY-  edge_loop ..................................................:    699
+! SUMMARY-  ellipse ....................................................:     22
+! SUMMARY-  face_bound .................................................:    376
+! SUMMARY-  face_outer_bound ...........................................:    323
+! SUMMARY-  geometric_representation_context_and_global_uncertainty_a ..:      1
+! SUMMARY-  length_measure_with_unit ...................................:      1
+! SUMMARY-  length_unit_and_si_unit ....................................:      1
+! SUMMARY-  line .......................................................:     56
+! SUMMARY-  manifold_solid_brep ........................................:      1
+! SUMMARY-  oriented_edge ..............................................:   1628
+! SUMMARY-  plane ......................................................:    162
+! SUMMARY-  plane_angle_measure_with_unit ..............................:      1
+! SUMMARY-  plane_angle_unit_and_si_unit ...............................:      1
+! SUMMARY-  product ....................................................:      1
+! SUMMARY-  product_context ............................................:      1
+! SUMMARY-  product_definition .........................................:      1
+! SUMMARY-  product_definition_context .................................:      1
+! SUMMARY-  product_definition_formation_with_specified_source .........:      1
+! SUMMARY-  product_definition_shape ...................................:      1
+! SUMMARY-  product_related_product_category ...........................:      1
+! SUMMARY-  si_unit_and_solid_angle_unit ...............................:      1
+! SUMMARY-  spherical_surface ..........................................:     11
+! SUMMARY-  surface_of_revolution ......................................:      8
+! SUMMARY-  toroidal_surface ...........................................:     23
+! SUMMARY-  uncertainty_measure_with_unit ..............................:      1
+! SUMMARY-  vector .....................................................:     56
+! SUMMARY-  vertex_point ...............................................:    615
+! SUMMARY-                                                               -------
+! SUMMARY-  Total                                                         124691
+! STATUS-    
+! STATUS-   Converting to Output Form (Phase 2 of 3): 12-FEB-2026 6:32:59 PM
+! STATUS-    
+! STATUS-    
+! STATUS-   Generating UG geometry and placing them in parts
+! STATUS-    
+! STATUS-   Creating the UG part (Phase 3 of 3): 12-FEB-2026  6:33:05 PM
+! INFO-     Filing Part ..: C:\Users\autum\OneDrive\Documents\GitHub\ASTE421_STRiDER\FAIRING_KEEP_IN_RECOVERABLE_WITH_BLANKETS_1575_PAF_A-1.prt
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid/Sheet .................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! INFO-      
+! INFO-     Total number of solids input for this translation       :         1
+! INFO-      
+! INFO-     Number of solids created without body validation faults :         1
+! INFO-      
+! INFO-     Number of solids created with body validation fault(s)  :         0
+! INFO-      
+! INFO-     Number of solids ending up as sheet bodies              :         0
+! INFO-      
+! INFO-     End of Translation: 12-FEB-2026  6:33:15 PM
+! INFO-      
