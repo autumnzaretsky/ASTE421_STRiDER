@@ -1,0 +1,70 @@
+
+*** 11:35:49 *** 
+Starting Nastran Exporter
+
+*** 11:35:49 *** 
+Writing file 
+C:\Users\autum\OneDrive\Documents\GitHub\ASTE421_STRiDER\strider_assembly_sim1-solution_1.dat
+ 
+*** 11:35:50 *** 
+Writing SIMCENTER NASTRAN 2412.0 compatible deck
+
+*** 11:35:51 *** 
+Writing Nastran System section
+
+*** 11:35:51 *** 
+Writing File Management section
+
+*** 11:35:51 *** 
+Writing Executive Control section
+
+*** 11:35:51 *** 
+Writing Case Control section
+
+*** 11:35:52 *** 
+Writing Bulk Data section
+
+*** 11:35:52 *** 
+Writing Nodes
+
+*** 11:35:53 *** 
+Writing Elements
+
+*** 11:35:56 *** 
+Writing Physical Properties
+
+*** 11:35:56 *** 
+Writing Materials
+
+*** 11:35:56 *** 
+Writing Degree-of-Freedom Sets
+
+*** 11:35:56 *** 
+Writing Loads and Constraints
+
+*** 11:35:56 *** 
+Writing Coordinate Systems
+
+*** 11:35:56 *** 
+Validating Solution Setup
+
+*** 11:35:56 *** 
+Summary of Bulk Data cards written
+
++----------+----------+
+|   NAME   |  NUMBER  |
++----------+----------+
+| CTETRA   | 679479   |
+| EIGRL    | 1        |
+| GRID     | 214989   |
+| MAT1     | 1        |
+| MATT1    | 1        |
+| PARAM    | 6        |
+| PSOLID   | 6        |
+| RBE3     | 1444     |
+| TABLEM1  | 3        |
++----------+----------+
+
+*** 11:35:56 *** 
+Nastran Deck Successfully Written
+

@@ -1,0 +1,82 @@
+Simcenter Nastran 2412.5000 (Intel64 Family 6 Model 154 Stepping 3 Windows 10) Control File:
+--------------------------------------------------------------------------------------
+Nastran BUFFSIZE=32769 $(c:/program files/siemens/nx2412/nxnastran/conf/nastran.rcf[1])
+Nastran BUFFPOOL=20.0X $(c:/program files/siemens/nx2412/nxnastran/conf/nastran.rcf[4])
+Nastran DIAGA=128 DIAGB=0 $(c:/program files/siemens/nx2412/nxnastran/conf/nastran.rcf[7])
+Nastran SYSTEM(442)=2 $(command line[5])
+Nastran REAL=2104492032 $(Memory limit for MPI and other specialized modules)
+JID='C:\Users\autum\OneDrive\Documents\GitHub\ASTE421_STRiDER\longeron_sim1-solution_1.dat'
+OUT='./longeron_sim1-solution_1'
+MEM=947728384
+MACH='Intel64 Family 6 Model 154 Stepping 3'
+OPER='Windows 10'
+OSV=' '
+MODEL='12th Gen Intel(R) Core(TM) i7-12700H (Autumns_Laptop)'
+CONFIG=8666
+NPROC=20
+symbol=DELDIR='c:/program files/siemens/nx2412/nxnastran/scnas/nast/del' $(program default)
+symbol=DEMODIR='c:/program files/siemens/nx2412/nxnastran/scnas/nast/demo' $(program default)
+symbol=SSSALTERDIR='c:/program files/siemens/nx2412/nxnastran/scnas/nast/misc/sssalter' $(program default)
+symbol=TPLDIR='c:/program files/siemens/nx2412/nxnastran/scnas/nast/tpl' $(program default)
+SDIR='c:/users/autum/appdata/local/temp/longeron_sim1-solution_1.T27588_40'
+DBS='c:/users/autum/appdata/local/temp/longeron_sim1-solution_1.T27588_40'
+SCR=yes
+SMEM=20.0X
+NEWDEL='c:/program files/siemens/nx2412/nxnastran/scnas/em64tntl/SSS'
+DEL='NXNDEF'
+AUTH='29000@lic-nx.usc.edu'
+AUTHQUE=0
+MSGCAT='c:/program files/siemens/nx2412/nxnastran/scnas/em64tntl/analysis.msg'
+MSGDEST='f06'
+PROG=bundle
+NEWS='c:/program files/siemens/nx2412/nxnastran/scnas/nast/news.txt'
+UMATLIB='libnxumat.dll'
+UCRPLIB='libucreep.dll'
+USOLLIB='libusol.dll'
+--------------------------------------------------------------------------------------
+NXN_ISHELLPATH=C:\Program Files\Siemens\NX2412\nxnastran\bin
+NXN_JIDPATH=
+PATH=c:/program files/siemens/nx2412/nxnastran/scnas/em64tntl;c:/program files/siemens/nx2412/nxnastran/scnas/em64tntl/sysnoise;c:/program files/siemens/nx2412/nxnastran/scnas/em64tntl/softwareanalytics;c:/program files/siemens/nx2412/nxnastran/scnas/em64tntl/samcef;c:/program files/siemens/nx2412/nxnastran/scnas/em64tntl/impi/bin;c:/program files/siemens/nx2412/nxnastran/scnas/em64tntl/monitor;C:\Program Files\Siemens\NX2412\nxbin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\MATLAB\R2025b\bin;C:\Program Files (x86)\IVI Foundation\VISA\WinNT\Bin\;C:\Program Files\IVI Foundation\VISA\Win64\Bin\;C:\Program Files (x86)\IVI Foundation\IVI\Bin\;C:\Program Files\IVI Foundation\IVI\Bin\;C:\Program Files (x86)\IVI Foundation\VISA\WinNT\Bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Siemens\NX2406\CAPITALINTEGRATION\capitalnxremote\;C:\Program Files\PuTTY\;C:\Program Files\Siemens\NX2412\CAPITALINTEGRATION\capitalnxremote\;C:\Users\autum\AppData\Local\Programs\Python\Launcher\;C:\Users\autum\AppData\Local\Microsoft\WindowsApps;C:\Users\autum\AppData\Local\GitHubDesktop\bin;
+Command Line: longeron_sim1-solution_1.dat prog=bundle old=no scratch=yes sys442=2
+Current Dir: C:\Users\autum\OneDrive\Documents\GitHub\ASTE421_STRiDER
+Executable:  c:/program files/siemens/nx2412/nxnastran/scnas/em64tntl/analysis.exe
+NXN_MSG:     stderr
+--------------------------------------------------------------------------------------
+Current resource limits:
+ Physical memory:                    16068 MB
+ Physical memory available:           4918 MB
+ Paging file size:                   35308 MB
+ Paging file size available:          6634 MB
+ Virtual memory:                 134217727 MB
+ Virtual memory available:       134213547 MB
+--------------------------------------------------------------------------------------
+System configuration:
+ Hostname:         Autumns_Laptop
+ Architecture:     em64tnt
+ Platform:         Intel64 Family 6 Model 154 Stepping 3 Windows 10  
+ Model:            12th Gen Intel(R) Core(TM) i7-12700H
+ Clock freq.:      2688 MHz
+ Number of CPUs:   20
+ Executable:       standard
+ Raw model ID:     8666
+ Config number:    8666
+ Physical memory:  16068 MB
+ Virtual memory:   35308 MB
+ Numeric format:   64-bit little-endian IEEE.
+ Bytes per word:   8
+ Disk block size:  512 bytes (64 words)
+ Remote shell cmd: Remote capabilities not available.
+--------------------------------------------------------------------------------------
+Simcenter Nastran started  Fri Apr 24 12:28:40 PDT 2026
+--------------------------------------------------
+Unable to allocate requested memory.
+Requested size = 7 Gbytes.
+Operating system error code = 12.
+Contact your system administrator to diagnose this
+error code for your specific operating system.
+--------------------------------------------------
+OPEN CORE Allocation Failed
+Real:        0.462 seconds ( 0:00:00.462)
+User:        0.000 seconds ( 0:00:00.000)
+Sys:         0.000 seconds ( 0:00:00.000)
+Simcenter Nastran finished Fri Apr 24 12:28:41 PDT 2026
